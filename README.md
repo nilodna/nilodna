@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am currently a Postdoctoral Researcher at the University of São Paulo (AtlantECO), working with bio-physical interactions and biological carbon pump.
+🌊 I'm a Postdoctoral Researcher at the University of São Paulo (Project AtlantECO), exploring how the ocean moves and stores carbon. My work focuses on the interplay between physical dynamics and the biological carbon pump, uncovering the processes that drive carbon from the surface to the deep ocean.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9714--4937-A6CE39?style=white&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9714-4937)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-AjA0EMAAAAJ&hl=en&oi=ao)
-
+[![Academic Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](http://nilodna.github.io)
 ---
 
 ## Research Interests
